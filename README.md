@@ -1,4 +1,4 @@
-### Hi there 👋, I am Srijani
+### Hey, I am Srijani.
 
 - 🔭 I turn ideas into reality, one web app at a time.
 - 🤔 I’m looking for help with learning backend development, UI design and contributing to open-source.
